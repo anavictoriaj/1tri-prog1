@@ -8,7 +8,7 @@ body {
 }
 
 .cabecalho {
-  background-color: hwb(330 22% 7%);
+  background-color:rgb(255, 115, 0);
   color: white;
   display: flex;
   justify-content: space-around;
@@ -31,7 +31,7 @@ body {
 }
 
 .serie{
-  background-image: linear-gradient(#f1309a, #e68db6);
+  background-image: linear-gradient(rgb(255, 115, 0), #f1a261);
   color: white;
   display: flex;
 justify-content: center;
